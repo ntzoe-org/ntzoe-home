@@ -1,9 +1,9 @@
-# ntzoe-home
+# ntzoe-space
 
-Ntzoe for a user.
+NTZOE's space.
 
 # bootstrapping
 
 ``` shell
-  git clone https://github.com/ntzoe-org/ntzoe-user $NTZOE_USER_DIR
+  git clone github/ntzoe-org/ntzoe-user $NTZOE_USER_DIR
 ```
