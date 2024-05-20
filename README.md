@@ -4,7 +4,7 @@ NTZOE's space.
 
 # bootstrapping
 
-```
+```shell
   export NTZOE_SPACE_DIR=
 ```
 
